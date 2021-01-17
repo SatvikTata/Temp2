@@ -5,3 +5,9 @@ Version-1
 -- pause
 -- play
 -- download
+
+Version-2
+
+-- song speed
+-- mixing song
+-- no ads
