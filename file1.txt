@@ -1,0 +1,7 @@
+Spotify
+
+Version-1
+
+-- pause
+-- play
+-- download
